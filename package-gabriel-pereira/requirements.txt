@@ -1,3 +1,0 @@
-matplotlib
-numpy
-scikti-image >= 0.16.1
